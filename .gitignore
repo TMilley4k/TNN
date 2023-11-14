@@ -1,0 +1,3 @@
+*.vs
+*/webpage-html-export/data.json
+*/.obsidian/graph.json
