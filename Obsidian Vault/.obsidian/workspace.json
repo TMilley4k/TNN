@@ -11,12 +11,8 @@
             "id": "9793e5b920a46e92",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -152,15 +148,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "c4b11d9e8aa7815d",
+        "id": "0253374fa7bdce3d",
         "type": "window",
         "children": [
           {
-            "id": "ebccaa44dccf685b",
+            "id": "679667ee55517126",
             "type": "tabs",
             "children": [
               {
-                "id": "71beec9a989f6d11",
+                "id": "98cd4e2cb59327aa",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -175,8 +171,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 510,
-        "y": 555,
+        "x": 455,
+        "y": 354,
         "width": 800,
         "height": 400,
         "maximize": false,
@@ -184,11 +180,11 @@
       }
     ]
   },
-  "active": "71beec9a989f6d11",
+  "active": "98cd4e2cb59327aa",
   "lastOpenFiles": [
     "GeoPolitics/Levant Charts/Israel & Palestine.canvas",
-    "index.md",
     "GeoPolitics/Levant 1919-2006 Notes.md",
+    "index.md",
     "Untitled",
     "GeoPolitics/Levant Charts/Pasted image 20231008215749.png",
     "GeoPolitics/Levant Charts/Pasted image 20231008184337.png",
