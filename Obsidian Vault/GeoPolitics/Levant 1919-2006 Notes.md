@@ -1,7 +1,15 @@
 
-# Timeline
+|   |
+|---|
+|# Timeline|
 
-- Mid 1919 - July 1922 - [The Mandate for Palestine](https://avalon.law.yale.edu/20th_century/palmanda.asp)
+|   |
+|---|
+||
+
+|   |
+|---|
+|- Mid 1919 - July 1922 - [The Mandate for Palestine](https://avalon.law.yale.edu/20th_century/palmanda.asp)|
 
 |   |
 |---|
@@ -427,9 +435,13 @@
 |---|
 |- Jews had their civil liberties infringed upon in Egypt following the war, resulting in some 25,000 (almost half) of the Jewish population leaving Egypt|
 
-- <span style="color: green;">Final Summary</span>
+|   |
+|---|
+|- <span style="color: green;">Final Summary</span>|
 
-- <span style="color: green;">In 1956 Egyptian leader Nasser, driven by his desire to be neither a puppet to the US nor USSR, nationalized the Suez canal (in defiance of the Constantinople Convention of 1888) while simultaneously acquiring large amounts of weapons from the USSR. Worried that trade would be interrupted, Britain and France approached Israel, who was worried that the anti-Zionist Egypt was amassing a massive military, to devise a covert plan, the Protocol of Sèvres, in order to stage an Israeli military invasion that would be disrupted by Anglo-Franco forces, which would then give way to an international ownership of the Suez Canal. Despite military success by all three parties, intense international pressure, especially from the United States, pressure from revolting colonies, and intense domestic pressure at home, combined with nuclear saber-rattling from the USSR, forced the Anglo-Franco forces to immediately withdraw, suffering an international humiliation. Israel would withdraw its forces sometime later, having re-established trade through the Straights of Tiran. Egypt, and namely, Nasser, would emerge feeling as though they had single-handedly defied European imperialistic aims, and saw itself as an emerging unaligned leader of the Arab World.</span>
+|   |
+|---|
+|- <span style="color: green;">In 1956 Egyptian leader Nasser, driven by his desire to be neither a puppet to the US nor USSR, nationalized the Suez canal (in defiance of the Constantinople Convention of 1888) while simultaneously acquiring large amounts of weapons from the USSR. Worried that trade would be interrupted, Britain and France approached Israel, who was worried that the anti-Zionist Egypt was amassing a massive military, to devise a covert plan, the Protocol of Sèvres, in order to stage an Israeli military invasion that would be disrupted by Anglo-Franco forces, which would then give way to an international ownership of the Suez Canal. Despite military success by all three parties, intense international pressure, especially from the United States, pressure from revolting colonies, and intense domestic pressure at home, combined with nuclear saber-rattling from the USSR, forced the Anglo-Franco forces to immediately withdraw, suffering an international humiliation. Israel would withdraw its forces sometime later, having re-established trade through the Straights of Tiran. Egypt, and namely, Nasser, would emerge feeling as though they had single-handedly defied European imperialistic aims, and saw itself as an emerging unaligned leader of the Arab World.</span>|
 
 |   |
 |---|
