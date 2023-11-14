@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GeoPolitics/Levant 1919-2006 Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6de0b424622d6720",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "GeoPolitics/Levant 1919-2006 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "GeoPolitics/Levant 1919-2006 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "GeoPolitics/Levant 1919-2006 Notes.md"
               }
             }
           }
@@ -160,12 +147,49 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6de0b424622d6720",
+  "floating": {
+    "id": "6f7bb828d581aab2",
+    "type": "floating",
+    "children": [
+      {
+        "id": "c4b11d9e8aa7815d",
+        "type": "window",
+        "children": [
+          {
+            "id": "ebccaa44dccf685b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "71beec9a989f6d11",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "GeoPolitics/Levant 1919-2006 Notes.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 510,
+        "y": 555,
+        "width": 800,
+        "height": 400,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "71beec9a989f6d11",
   "lastOpenFiles": [
-    "GeoPolitics/Levant 1919-2006 Notes.md",
-    "index.md",
-    "Untitled",
     "GeoPolitics/Levant Charts/Israel & Palestine.canvas",
+    "index.md",
+    "GeoPolitics/Levant 1919-2006 Notes.md",
+    "Untitled",
     "GeoPolitics/Levant Charts/Pasted image 20231008215749.png",
     "GeoPolitics/Levant Charts/Pasted image 20231008184337.png",
     "GeoPolitics/Levant Charts/Pasted image 20231008181126.png",
